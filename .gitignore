@@ -1,3 +1,12 @@
+# ignore python virtual enviroment
+venv
+
+# ignore compiled python files
+*.pyc
+
+# ignore SQLite databases
+*.sqlite3
+
 *.pdf
 demos.txt
 demos/
